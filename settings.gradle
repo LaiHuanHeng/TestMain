@@ -1,0 +1,2 @@
+include ':app'//, ':hjkblelibrary'//,':HRVEmotionManage'
+//include ':HRVEmotionManage'
